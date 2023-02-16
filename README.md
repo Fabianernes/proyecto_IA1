@@ -1,5 +1,5 @@
 # # Winner World Cup 2022
-![Winner World Cup 2022](https://github.com/Fabianernes/proyecto_IA1/blob/30ef83c80144a99eefe817f9265a3e91cd11d697/banner_WWC_2022.jpg)]
+![Winner World Cup 2022](https://github.com/Fabianernes/proyecto_IA1/blob/30ef83c80144a99eefe817f9265a3e91cd11d697/banner_WWC_2022.jpg)
 ## Autores
 Kevin Anaya, Fabian Hernández, Julian Villamizar
 ## Objetivo
