@@ -3,7 +3,7 @@
 ## Autores
 Kevin Anaya, Fabian Hernández, Julian Villamizar
 ## Objetivo
-Modelo de simulación de la Copa Mundial de Fútbol en el que se utilizan los resultados históricos de los equipos para predecir los ganadores en los partidos futuros. 
+Crear una aproximación de lo que puede ser el resultado de un encuentro de futbol o inclusive conocer cual de los participantes del torneo tiene mas probabilidades de ser el campeón.
 ## Dataset
 https://www.kaggle.com/datasets/brenda89/fifa-world-cup-2022 El dataset proporciona una visión completa de todos los partidos internacionales de fútbol jugados desde los años 90.
 ## Modelos
